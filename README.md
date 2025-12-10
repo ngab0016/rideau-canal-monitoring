@@ -7,9 +7,8 @@
 - **Term**: Fall 2025
 
 ## Project Links
-- **Sensor Simulation Repository**: [Link to rideau-canal-sensor-simulation]
-- **Dashboard Repository**: [Link to rideau-canal-dashboard]
-- **Live Dashboard**: [Link to Azure App Service deployment]
+- **Sensor Simulation Repository**: [\[Link to rideau-canal-sensor-simulation\]](https://github.com/ngab0016/rideau-canal-sensor-simulation)
+- **Dashboard Repository**: [\[Link to rideau-canal-dashboard\]](https://github.com/ngab0016/rideau-canal-dashboard)
 - **Video Demonstration**: [\[Link to YouTube video\]](https://youtu.be/fdzCLwf7po8)
 
 ## Project Overview
