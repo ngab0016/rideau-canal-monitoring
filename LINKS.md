@@ -3,7 +3,7 @@
 # Repository Links
 ## 1. Main Documentation Repository
 
-URL: https://github.com/[yourusername]/rideau-canal-monitoring
+URL: https://github.com/ngab0016/rideau-canal-monitoring
 Description: Complete project documentation, architecture diagrams, screenshots, Stream Analytics query, and comprehensive guides
 
 ## 2. Sensor Simulation Repository
